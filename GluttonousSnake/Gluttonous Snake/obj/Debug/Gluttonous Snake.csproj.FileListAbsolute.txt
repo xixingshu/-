@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\bin\Debug\Gluttonous Snake.exe.config
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\bin\Debug\Gluttonous Snake.exe
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\bin\Debug\Gluttonous Snake.pdb
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\obj\Debug\Gluttonous Snake.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\obj\Debug\Gluttonous_Snake.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\obj\Debug\Gluttonous Snake.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\obj\Debug\Gluttonous Snake.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\obj\Debug\Gluttonous Snake.exe
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\obj\Debug\Gluttonous Snake.pdb
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\obj\Debug\myGluttonous_nake.Gluttonous_Snake.resources
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\bin\Debug\HslCommunication.dll
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\bin\Debug\HslCommunication.xml
+D:\Documents\Visual Studio 2017\C#\Gluttonous Snake\Gluttonous Snake\obj\Debug\Gluttonous Snake.csproj.CopyComplete
